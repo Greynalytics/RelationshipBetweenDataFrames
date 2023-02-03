@@ -1,10 +1,12 @@
-## Developer Portfolio Landing Page Template
+## Correlation between Variables in a Data Frame 
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+In this project, I demonstrated my knowledge in analysing correlations. Two In- built R Data set were used to conduct this analysis. "Iris" and "Mtcars"
 
-<img src="images/demo.gif?raw=true"/>
+iris is a data frame with 150 cases (rows) and 5 variables (columns) named Sepal.Length, Sepal.Width, Petal.Length, Petal.Width, and Species. iris data set gives the measurements in centimeters of the variables sepal length and width and petal length and width, respectively, for 50 flowers from each of 3 species of iris. The species are Iris setosa, versicolor, and virginica.
+
+
 
 ### Installation
 
